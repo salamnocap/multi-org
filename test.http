@@ -1,0 +1,9 @@
+### GET request to example server
+
+#Organization 1
+GET http://localhost:8000/items
+X-Org: organization1
+
+## Organization 2
+#GET http://localhost:8000/items
+#X-Org: organization2
